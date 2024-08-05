@@ -1,4 +1,4 @@
-print('oi leo gay')
+print('oi leo ')
    
 
 
